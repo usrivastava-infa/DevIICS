@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "new change to mapping",
+        "description" : "Test - desc updates",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
