@@ -80,7 +80,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "new change to mapping",
+        "description" : "Test - desc updates 2",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
