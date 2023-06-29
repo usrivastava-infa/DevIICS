@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Some desc -1",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -75,12 +75,9 @@
       "repoInfo" : {
         "repoHandle" : "01CKSP17000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Test - desc updates 321",
+        "description" : "Test - desc updates 321 - new update",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
