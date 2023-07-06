@@ -75,9 +75,12 @@
       "repoInfo" : {
         "repoHandle" : "01CKSP17000000000002"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
-        "description" : "Test - desc updates 321 - new update",
+        "description" : "Test - desc updates 321 - new update - something",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
