@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "eRZ1kBiXYWTjQ9p4pgResu",
-    "name" : "Mapping4",
+    "name" : "RenamedFromMapping4",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -23,6 +23,6 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-08-21T18:09:12.017Z",
+  "updateTime" : "2023-08-25T16:31:11.739Z",
   "objectRefs" : [ ]
 }
