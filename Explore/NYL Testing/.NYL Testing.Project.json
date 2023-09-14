@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "hJec1Ktlb0wjfD2rYAmVC6",
+    "name" : "NYL Testing",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-09-14T14:36:50.494Z",
+  "objectRefs" : [ ]
+}
