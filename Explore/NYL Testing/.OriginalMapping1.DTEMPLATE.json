@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "fx3Bna71rMpeQK4jKgWAkp",
-    "name" : "OriginalMapping1",
+    "name" : "RenamedMapping",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -16,13 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Description Note 1",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-09-14T14:36:50.495Z",
+  "updateTime" : "2023-09-14T14:49:58.512Z",
   "objectRefs" : [ ]
 }
