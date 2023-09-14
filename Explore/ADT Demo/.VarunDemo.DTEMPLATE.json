@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "0zYRhkjlekVgR9fRSuMASy",
-    "name" : "VarunDemo",
+    "id" : "8KqS6ZPztKFgw7BrjjHCsJ",
+    "name" : "MappingThree",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,19 +9,20 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CKSP17000000000006"
+        "repoHandle" : "01CKSP1700000000000J"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Description Change 1",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
+  "updateTime" : "2023-09-14T15:25:24.630Z",
   "objectRefs" : [ ]
 }
