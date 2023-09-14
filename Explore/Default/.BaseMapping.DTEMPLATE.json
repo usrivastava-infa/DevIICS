@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "iRz7C6uhNSueQhnqWImhMG",
-    "name" : "BaseMapping",
+    "name" : "BaseMappingRenamed",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -16,13 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Some comment",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-09-14T13:43:49.854Z",
+  "updateTime" : "2023-09-14T14:08:13.532Z",
   "objectRefs" : [ ]
 }
