@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "8KqS6ZPztKFgw7BrjjHCsJ",
+    "name" : "MappingOne",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CKSP1700000000000J"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-09-14T15:08:13.964Z",
+  "objectRefs" : [ ]
+}
