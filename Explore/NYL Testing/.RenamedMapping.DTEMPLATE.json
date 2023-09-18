@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "8KqS6ZPztKFgw7BrjjHCsJ",
-    "name" : "MappingThree",
+    "id" : "fx3Bna71rMpeQK4jKgWAkp",
+    "name" : "RenamedMapping",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,20 +9,20 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CKSP1700000000000J"
+        "repoHandle" : "01CKSP1700000000000I"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Description Change 1",
+        "description" : "Description Note 1",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-09-14T15:25:24.630Z",
+  "updateTime" : "2023-09-14T14:49:58.512Z",
   "objectRefs" : [ ]
 }

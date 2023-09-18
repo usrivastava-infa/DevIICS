@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "iRz7C6uhNSueQhnqWImhMG",
+    "name" : "BaseMappingRenamed",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CKSP1700000000000H"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Some comment #2",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-09-14T14:24:39.296Z",
+  "objectRefs" : [ ]
+}

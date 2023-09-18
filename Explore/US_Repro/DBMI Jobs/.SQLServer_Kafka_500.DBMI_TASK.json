@@ -1,32 +1,49 @@
 {
   "objectInfo" : {
-    "id" : "5hhIOp7kl3kd9CGalKZpEJ",
-    "name" : "Mapping2",
-    "type" : "DTEMPLATE",
+    "id" : "h2ZsjKO7Ekcgi5VrU1sLSk",
+    "name" : "SQLServer_Kafka_500",
+    "type" : "DBMI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "56533"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "updateTime" : "2023-09-13T15:47:50.509Z",
+  "objectRefs" : [ {
+    "id" : "9BI4Ox6R8gtjewgRoVORY6",
+    "name" : "dockerevn.informatica.com",
+    "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CKSP17000000000004"
+        "repoHandle" : "01CKSP25000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Some Update",
+        "description" : null,
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
-    }
-  },
-  "dataFileExtension" : "zip",
-  "updateTime" : "2023-09-12T19:31:12.687Z",
-  "objectRefs" : [ {
-    "id" : "4yFaHyuB43YdQywbJLJpgh",
-    "name" : "FF_test",
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7RhQ7GVNO6OdSB8bztu9O5",
+    "name" : "SQLServerCDC",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +51,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CKSP0B000000000003"
+        "repoHandle" : "01CKSP0B00000000000A"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

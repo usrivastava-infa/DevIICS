@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "8KqS6ZPztKFgw7BrjjHCsJ",
+    "name" : "MappingThree",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CKSP1700000000000J"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Description Change 1",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-09-18T15:37:20.216Z",
+  "objectRefs" : [ ]
+}
